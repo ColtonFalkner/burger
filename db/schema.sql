@@ -1,4 +1,5 @@
-use `xr5muc91xxqhk92m`;
+### Schema
+use `eahcmh8para5wzif`;
 
 CREATE TABLE burger (
     id INTEGER(100) AUTO_INCREMENT NOT NULL,

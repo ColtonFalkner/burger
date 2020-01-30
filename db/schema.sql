@@ -1,4 +1,4 @@
-use `pc52j3cp8pvccgd9`;
+use `xr5muc91xxqhk92m`;
 
 CREATE TABLE burger (
     id INTEGER(100) AUTO_INCREMENT NOT NULL,
